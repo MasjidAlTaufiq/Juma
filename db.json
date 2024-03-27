@@ -1,0 +1,24 @@
+{
+  "events": [
+    {
+      "id": 101,
+      "category": "Weekly Pray,
+      "title": "Juma",
+      "description": "Friday Pray",
+      "location": "Masjid Al-Taufiq, Mosque",
+      "time": "01:30 AM",
+      "petsAllowed":false,
+      "organizer": "Islamic Youth"
+    },
+    {
+      "id": 102,
+      "category": "Weekl Pray",
+      "title": "Juma",
+      "description": "Friday Pray",
+      "location": "Masjid Al-Taufiq, Mosque",
+      "time": "02:15 PM",
+      "petsAllowed":false,
+      "organizer": "Islamic Youth"
+    }
+  ]
+}
